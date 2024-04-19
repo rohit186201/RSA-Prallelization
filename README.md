@@ -1,7 +1,7 @@
 # RSA-Parallelization
 
 Welcome to the RSA-Parallelization repository! This project is focused on implementing a multithreaded server that serves normal client chat/information exchange with parallel RSA encryption integrated. The goal is to eventually stream media with encryption in real-time.
-![](https://github.com/rohit186201/RSA-Prallelization/blob/main/RSA.png)
+![](https://github.com/rohit186201/RSA-Prallelization/blob/main/Output.png)
 ## Features
 
 - **Multithreaded Server**: Efficient handling of multiple client connections simultaneously.
