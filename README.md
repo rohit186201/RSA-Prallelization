@@ -29,10 +29,6 @@ To get started with this project, clone the repository and navigate to the `src/
 
 Contributions are welcome! If you have any ideas or improvements, feel free to fork the repository and submit a pull request.
 
-## License
-
-This project is open-source and available under the MIT License.
-
 ## Contact
 
 If you have any questions or would like to discuss the project further, please open an issue in the repository.
